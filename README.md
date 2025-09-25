@@ -1,17 +1,21 @@
-# React + TypeScript + Vite
+# 🧠 Meu Portfólio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é o meu portfólio pessoal desenvolvido com **React**, **TypeScript**, **HTML** e **CSS**. O objetivo é apresentar meus projetos, habilidades e experiências de forma clara, moderna e responsiva.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tecnologias Utilizadas
 
-## React Compiler
+- [React](https://reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Vite](https://vitejs.dev/) — para bundling e desenvolvimento rápido
+- [Tailwind CSS](https://tailwindcss.com/) — (opcional, se usado)
+- [Recharts](https://recharts.org/) — para gráficos e visualizações (se usados)
+- [GitHub Pages](https://pages.github.com/) — para deploy (ou outra plataforma)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📁 Estrutura do Projeto
 
 If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
 
