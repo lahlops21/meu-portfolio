@@ -1,4 +1,4 @@
-# 🧠 Meu Portfólio
+#  Meu Portfólio
 
 Este é o meu portfólio pessoal desenvolvido com **React**, **TypeScript**, **HTML** e **CSS**. O objetivo é apresentar meus projetos, habilidades e experiências de forma clara, moderna e responsiva.
 
